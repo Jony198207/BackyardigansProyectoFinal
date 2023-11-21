@@ -20,4 +20,5 @@ El proyecto consiste en la creación de una aplicación en dónde los y las alum
 ## Archivos
 
 * [Requerimientos](Requerimientos.md)
+* [Casos de Uso](CasosDeUso.md)
 * [Propuesta Economica](PropuestaEconomica.md)
