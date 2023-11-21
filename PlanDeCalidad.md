@@ -19,11 +19,49 @@ posibles actualización futuras.
 
 ## 4. Objetos de prueba
 
-* Inicio de sesión de manera correcta
+* Inicio de sesión de manera correcta: autenticación con base de datos 
 * Filtros de búsqueda
-* Personalización de bebidas
+* Personalización de bebidas: asegurar que las opciones disponibles cambien según la bebida
 * Manejo correcto de carrito: añadir, eliminar, modificar productos
 * Pago seguro y correcto
-* Confirmación de pedido exitoso tras pago
-* Registro de valoración y/o comentarios de algún producto
+* Confirmación de pedido exitoso tras pago: seguridad
+* Registro de valoración y/o comentarios de algún producto: almacenamiento correcto en base de batos y autenticar usuario
 
+## 5. Eventos de riesgo
+
+Áreas críticas:
+* Compatibilidad con navegadores y dispositivos
+* Documentación de código
+* Horas de alta demanda: mañanas o periodos de exámenes
+* Modificaciones para recompensas de tiempo limitado
+
+Riesgos de Software:
+* Regulaciones para venta de productos en México
+
+## 6. Funcionalidades a Probar
+
+* Iniciar sesión en la página
+* Poder buscar una bebida y elegirla
+* Añadir bebida personalizada a mi carrito
+* Modificar elementos de mi carrito: borrar bebida, cambiar cantidad
+* Elegir método de pago y completar transacción
+* Usar programa de recompensas
+
+## 7. Funcionalidades que no se probaran
+
+* Observar puntos obtenidos
+
+## 8. Estrategia
+
+Dentro de las herramientas a usar tenemos *Selenium* para pruebas automatizadas y *Google Analytics* para observar el comportamiento de nuestros usuarios. Se implementarán cursos para los integrantes que no hayan manejado esas herramientas. Dentro de las métricas a recolectar tenemos: porcentaje de funcionalidades con tests correctos, desempeño de aplicación ante distintas cargas de usuarios, y pruebas completadas por usuarios de prueba.
+
+Las pruebas finales involucrarán la simulación de escenarios frecuentes por usuarios nuevos para poder observar la facilidad de uso o intuitividad de nuestra aplicación.
+
+## 9. Criterios de éxito/fallo
+
+* Realización de pruebas con un 92% de éxito
+* Todos los requerimientos de prioridad alta no presentan bugs significativos
+* Satisfacción de 80% en las simulaciones hechas por usuarios
+* Buen desempeño frente a la duplicación de la carga usual proyectada de usuarios
+
+## 10. Criterios de suspensión
