@@ -65,3 +65,23 @@ Las pruebas finales involucrarán la simulación de escenarios frecuentes por us
 * Buen desempeño frente a la duplicación de la carga usual proyectada de usuarios
 
 ## 10. Criterios de suspensión
+
+En el caso de que alguna de las pruebas lleve a un fallo completo de la página o comprometa la información de los usuarios, es imperante detenerlas. Ante estos eventos se debe regresar al código a hacer las correciones respectivas.
+
+## 11. Entregables
+
+* Plan de Calidad
+* Resultados de las pruebas
+* Reportes de problemas con sus respectivas soluciones
+
+## 12. Entrenamiento y staff
+
+Se implementarán cursos de *Selenium* y *Google Analytics* para los miembros del equipo sin experiencia con estas herramientas
+
+## 13. Responsabilidades
+
+- Definición de riesgos: Jonathan
+- Funcionalidades a probar: Manuel
+- Estrategia general: Fernanda
+- Decisiones críticas para temas no presentes en el plan: Raúl
+- Conflictos de horario: Camila
