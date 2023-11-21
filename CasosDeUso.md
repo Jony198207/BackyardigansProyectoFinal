@@ -9,3 +9,5 @@
 ![casoPago](https://github.com/Ingenieria-Software-2023/BackyardigansProyectoFinal/assets/70402438/8e447ea3-af1b-4d11-a91c-13bc3c2dc5d8)
 
 ## Menú con Productos
+
+![casoMenu](https://github.com/Ingenieria-Software-2023/BackyardigansProyectoFinal/assets/70402438/231c566a-e033-4951-9337-4b469754a7ed)
