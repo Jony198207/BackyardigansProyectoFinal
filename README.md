@@ -11,7 +11,9 @@
 ## Objetivo
 Realizar todo el ciclo de Ingeniería de Software con un proyecto web. En este caso particular, el proyecto web consiste en el desarrollo de una aplicación de servicio para una cafetería, atendiendo especificamente la logistica de las bebidas.
 ## Descripción del proyecto
-El proyecto consiste en la creación de una aplicación en dónde los y las alumnas pueden hacer pedidos de bebidas a la cafetería. Durante el desarrollo deben atenderse los tres pilares del triángulo de calidad:
+El proyecto consiste en la creación de una aplicación en dónde los y las alumnas pueden hacer pedidos de bebidas a la cafetería. Se agregan algunas caracerísticas y funcionalidades para facilitar el uso del software (correspondientes a los casos de uso que se plantean), de manera que la aplicación sirva para desarrollar el proceso de negocio completo. Si bien la solución real sería extensa, para el desarrollo de este proyecto consideran las  funcionalidades de iniciar sesión, seleccionar y personalizar bebida, hacer reseñas y calificaciones de bebidas, seleccionar y procesar método de pago y un sistema de recompensas. 
+
+Durante el desarrollo deben atenderse los tres pilares del triángulo de calidad:
 
 - **Tiempo:** El proyecto debe ser entregado el día 23 de noviembre del 2023, pero por buenas prácticas, el proyecto debe estar listo a más tardar el día 21 del mes ya mencionado. Esto quiere decir que solo contamos con un mes para desarrollar el proyecto.
 - **Recursos:** Somos 5 personas de capital humano (los integrantes mencionados en el encabezado de este archivos. Las computadoras personales representan la principal herramienta de trabajo que se tiene, así como el software libre disponible para el diseño y bosquejo de arquitecturas web. Hay que considerar que en este proyecto no habrá inverción económica alguna.
